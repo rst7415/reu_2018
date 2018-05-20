@@ -1,0 +1,53 @@
+Epoch: 0
+Loss value: 29.7248
+Current predicted value: [[ 1.54795206]]
+
+Epoch: 10
+Loss value: 19.882
+Current predicted value: [[ 2.54107475]]
+
+Epoch: 20
+Loss value: 12.2938
+Current predicted value: [[ 3.49375439]]
+
+Epoch: 30
+Loss value: 6.93668
+Current predicted value: [[ 4.36624146]]
+
+Epoch: 40
+Loss value: 3.51642
+Current predicted value: [[ 5.12478924]]
+
+Epoch: 50
+Loss value: 1.56909
+Current predicted value: [[ 5.74736643]]
+
+Epoch: 60
+Loss value: 0.5983
+Current predicted value: [[ 6.22650146]]
+
+Epoch: 70
+Loss value: 0.185564
+Current predicted value: [[ 6.56922865]]
+
+Epoch: 80
+Loss value: 0.0423439
+Current predicted value: [[ 6.79422379]]
+
+Epoch: 90
+Loss value: 0.00533603
+Current predicted value: [[ 6.92695189]]
+
+Epoch: 100
+Loss value: 3.19338e-05
+Current predicted value: [[ 6.994349]]
+
+Predictions on test set:
+[[  2.          13.99693012]
+ [  3.          20.99539566]
+ [  4.          27.99386024]
+ [  5.          34.99232483]
+ [  6.          41.99079132]
+ [  7.          48.989254  ]
+ [  8.          55.98772049]
+ [  9.          62.98618698]]
